@@ -21,7 +21,11 @@ body {
 
 .stats-container {
     display: flex;
-}
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+
+ }
 
 .stats-card {
     background-color: #a8b0bc;
@@ -43,9 +47,13 @@ body {
 }
 
 .game-img {
-    width: 100%;
+    overflow: hidden;
+    max-width: 100%;
+    max-height: 200px;
     border-radius: 5px;
     box-shadow: 0 0 10px #FFFFFF;
+   
+
 }
 
 .game-card {
