@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 [Imgur](https://i.imgur.com/VB2G1pk.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ... Gifski
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
