@@ -36,6 +36,10 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+I was struggling understanding the filter function in Javascript but after digging deeper I finally got it down. I hope to retain the knowledge.
+
+I was having issues with working with the git commands and kept recieveing a "404" error so I started a Codespace machine and directly made changes to the code. It was more of a brute approach but it got done.
+
 ## License
 
     Copyright [2023] [Solomon Bryant]
